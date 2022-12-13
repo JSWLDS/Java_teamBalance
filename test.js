@@ -4,6 +4,7 @@ let Player = function(){
     let rank = 0;
 
 };
+
 let index = 0;
 let playerList = [];
 let cnt = 10;
